@@ -10,7 +10,6 @@
 		18D6297A2D27CEBA001B2F4B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D629792D27CEBA001B2F4B /* AppDelegate.swift */; };
 		18D6297E2D27CEBA001B2F4B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18D6297D2D27CEBA001B2F4B /* ViewController.swift */; };
 		18D629812D27CEBA001B2F4B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 18D629802D27CEBA001B2F4B /* Base */; };
-		18D629832D27CEBC001B2F4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18D629822D27CEBC001B2F4B /* Assets.xcassets */; };
 		18D629862D27CEBC001B2F4B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 18D629852D27CEBC001B2F4B /* Base */; };
 		F5D313C17E544AB0E30FB0C3 /* Pods_TYSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D62428D81BE05E5D4BA3D63 /* Pods_TYSDK.framework */; };
 /* End PBXBuildFile section */
@@ -30,7 +29,6 @@
 		18D629792D27CEBA001B2F4B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18D6297D2D27CEBA001B2F4B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		18D629802D27CEBA001B2F4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		18D629822D27CEBC001B2F4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18D629852D27CEBC001B2F4B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18D629872D27CEBC001B2F4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		18D629DB2D27D185001B2F4B /* Display.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Display.xcodeproj; path = Display/Display.xcodeproj; sourceTree = "<group>"; };
@@ -76,7 +74,6 @@
 				18D629792D27CEBA001B2F4B /* AppDelegate.swift */,
 				18D6297D2D27CEBA001B2F4B /* ViewController.swift */,
 				18D6297F2D27CEBA001B2F4B /* Main.storyboard */,
-				18D629822D27CEBC001B2F4B /* Assets.xcassets */,
 				18D629842D27CEBC001B2F4B /* LaunchScreen.storyboard */,
 				18D629872D27CEBC001B2F4B /* Info.plist */,
 			);
@@ -191,7 +188,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18D629832D27CEBC001B2F4B /* Assets.xcassets in Resources */,
 				18D629862D27CEBC001B2F4B /* Base in Resources */,
 				18D629812D27CEBA001B2F4B /* Base in Resources */,
 			);
